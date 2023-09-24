@@ -1,0 +1,6 @@
+scipy==1.11.2
+numpy==1.26.0
+jupyterlab==4.0.6
+pyaudio==0.2.13
+matplotlib==3.8.0
+ipywidgets=8.1.1
